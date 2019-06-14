@@ -1,0 +1,4 @@
+R5T.NetStandard.Reflection.Types.Construction - A construction console entry-point for the R5T.NetStandard.Reflection.Types library (A base-library containing reflection-related types.).
+
+Goals
+
